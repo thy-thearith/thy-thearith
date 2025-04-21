@@ -39,14 +39,14 @@ Here’s a deeper look into what I’ve done:
 
 | Category        | Tools & Technologies |
 |----------------|----------------------|
-| **Languages**  | JavaScript, TypeScript, Java, Python, SQL |
+| **Languages**  | JavaScript, TypeScript, Java, Python, PHP, SQL |
 | **Frontend**   | React, Vue.js, HTML5, CSS3 |
-| **Backend**    | Node.js, Express.js, NestJS |
+| **Backend**    | Node.js, Express.js, NestJS, Larevel |
 | **Databases**  | PostgreSQL, MySQL, MongoDB |
 | **Data Modeling** | UML, ER Diagrams, Conceptual/Logical/Physical modeling |
-| **Dev Tools**  | Git, GitHub, Docker, Talend, VS Code |
-| **Testing & Performance** | Postman, Jest, k6, Load Testing |
-| **Others**     | REST APIs, CI/CD, Shell Scripting, Data Integration |
+| **Dev Tools**  | Git, GitHub, Docker, Talend, Apache Hop, , VS Code |
+| **Testing & Performance** | Postman, Jest, k6, Load Testing, Selenium, Playwright, Grafana, Prometheuse, Node Exporter |
+| **Others**     | REST APIs, GraphQL, SOAP APIs, CI/CD, Shell Scripting, Data Integration |
 
 ---
 
@@ -85,7 +85,7 @@ Built a flexible and modular web app structure for rapid feature development. Em
 
 I'm always open to networking, collaboration, or just having a good conversation about tech and innovation.
 
-- 🌐 [Portfolio Website](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- You can add this -->
+- 🌐 [Portfolio Website](https://github.com/thy-thearith/thy-thearith/blob/master/README.md) <!-- You can add this -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- Update with your real link -->
 - 📮 Email: thy.thearith.work@gmail.com <!-- Replace with your contact -->
 
