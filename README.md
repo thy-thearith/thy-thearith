@@ -1,59 +1,97 @@
-# 🌟 [Your Name]'s Portfolio
+# 👋 Hey there, I'm THY THEARITH
 
-Welcome to my digital portfolio! This GitHub repository showcases who I am, what I build, and how I solve problems through code, creativity, and curiosity.
+Welcome to my digital portfolio repository!
 
----
-
-## 📌 About Me
-
-Hi there! I'm **[Your Name]**, a passionate [your role - e.g., "Full-Stack Developer", "Software Engineer", "Electronic Engineer"] who loves crafting elegant solutions with code. I enjoy working with [mention key technologies], and I thrive on learning, building, and sharing knowledge.
+I'm a passionate **Data Architect** with a full-stack engineering mindset. I specialize in designing scalable data systems and building modern software applications that are efficient, maintainable, and user-centric. My professional journey has been shaped by working on high-impact national projects and dynamic product teams where quality, performance, and innovation matter most.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Who Am I?
 
-- **Languages:** JavaScript / TypeScript / Python / Rust / [Others]
-- **Frontend:** React / Next.js / HTML5 / CSS3 / TailwindCSS
-- **Backend:** Node.js / Express / NestJS / [Your Backend Stack]
-- **Databases:** PostgreSQL / MongoDB / MySQL
-- **Tools:** Git / GitHub / Docker / Webpack / VS Code
-- **Testing:** Jest / Cypress / k6 / Postman
+I’m currently working as a **Data Architect**, focusing on data-driven solutions, system integration, and high-performance application design. Over the years, I’ve evolved from a full-stack developer into a data-focused engineer who bridges backend logic with data architecture — ensuring solutions are robust from code to database.
 
----
+Here’s a deeper look into what I’ve done:
 
-## 📁 Projects
+- 🧩 **Software Engineering for Scale**  
+  Developed and maintained applications for large and complex systems, ensuring reliability and maintainability in fast-paced environments.
 
-Here are some highlights of my favorite projects. You can find all of them in the `projects/` directory:
+- 🏅 **SEA Games & ASEAN Para Games – National Impact**  
+  Proud contributor to the Game Management System, a flagship initiative funded by the Cambodian government. Played a key role in implementing features and enhancements that supported event operations at a national level.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 `auth-system` | Secure authentication system with JWT & refresh tokens | Node.js, MongoDB, JWT |
-| 📈 `k6-load-testing` | Load testing scenarios with dynamic configs | TypeScript, k6 |
-| 📊 `dashboard-metrics` | API for dashboard and analytics metrics | NestJS, PostgreSQL |
-| 💡 `smart-home-sim` | IoT Smart Home simulation interface | React, WebSockets |
+- 👨‍🔧 **Problem Solver at Core**  
+  Diagnosed and resolved performance bottlenecks and bugs, ensuring high system availability and responsiveness.
 
-> 📌 _Check out individual project folders for README files, installation instructions, and code samples._
+- 📐 **Architecture & Data Modeling**  
+  Designed **conceptual**, **logical**, and **physical data models** using **ER diagrams** and **UML**, ensuring smooth collaboration between technical and non-technical stakeholders.
 
----
+- 🔄 **Legacy Modernization**  
+  Successfully migrated outdated systems to modern platforms, improving stability, performance, and ease of maintenance.
 
-## 🎯 Goals
+- 🚀 **Optimization & Performance**  
+  Improved application performance by identifying key issues in the codebase and applying targeted optimizations.
 
-- Continuously learn and experiment with new technologies
-- Contribute to open source and community-driven initiatives
-- Write clean, maintainable, and scalable code
-- Solve real-world problems through creative thinking
+- 📅 **Agile Workflow & Team Collaboration**  
+  Worked closely with PMs, designers, and developers in Agile environments. Took ownership of tasks and ensured timely delivery based on well-defined timelines.
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ My Tech Toolbox
 
-- 🔗 [Portfolio Website](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📮 Email: [your.email@example.com]
+| Category        | Tools & Technologies |
+|----------------|----------------------|
+| **Languages**  | JavaScript, TypeScript, Java, Python, SQL |
+| **Frontend**   | React, Vue.js, HTML5, CSS3 |
+| **Backend**    | Node.js, Express.js, NestJS |
+| **Databases**  | PostgreSQL, MySQL, MongoDB |
+| **Data Modeling** | UML, ER Diagrams, Conceptual/Logical/Physical modeling |
+| **Dev Tools**  | Git, GitHub, Docker, Talend, VS Code |
+| **Testing & Performance** | Postman, Jest, k6, Load Testing |
+| **Others**     | REST APIs, CI/CD, Shell Scripting, Data Integration |
 
 ---
 
-> _This README is a living document — updates and improvements happen regularly as I grow._
+## 🚀 Projects & Highlights
 
-Made with ❤️ by [Your Name]
+Here are a few key projects that represent my expertise and impact:
+
+### 🎮 Game Management System  
+> **Technology Stack:** Node.js, PostgreSQL, REST APIs  
+Designed and developed modules for event scheduling, athlete registration, and reporting. Played a pivotal role during the SEA Games and ASEAN Para Games.
+
+### 🔄 Legacy System Migration  
+> **Technology Stack:** JavaScript, MySQL, Docker  
+Led the migration of a legacy monolith application to a modular architecture with better scalability and maintainability.
+
+### 📈 Performance Optimizer  
+> **Technology Stack:** NestJS, TypeScript, SQL  
+Refactored inefficient API endpoints, improving overall performance by over 40%. Implemented caching and database indexing strategies.
+
+### 🧠 Modular Web Platform  
+> **Technology Stack:** React, Express, MongoDB  
+Built a flexible and modular web app structure for rapid feature development. Emphasized clean code, reusability, and component-driven architecture.
+
+---
+
+## 🎯 Vision & Career Goals
+
+- 📐 **Architect with Purpose**: Design data systems that scale, adapt, and empower business intelligence.
+- 🧠 **Lifelong Learner**: Continuously explore new technologies, design patterns, and tools that push the boundaries of modern software.
+- 🌱 **Mentorship & Collaboration**: Help junior developers grow, and work with diverse teams toward shared goals.
+- 🌍 **Impact-Driven Work**: Build solutions that make a difference — whether for national events, businesses, or communities.
+
+---
+
+## 📫 Connect With Me
+
+I'm always open to networking, collaboration, or just having a good conversation about tech and innovation.
+
+- 🌐 [Portfolio Website](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- You can add this -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- Update with your real link -->
+- 📮 Email: thy.thearith.work@gmail.com <!-- Replace with your contact -->
+
+---
+
+> _"Data is the foundation. Architecture is the vision. Execution is the art."_  
+> — THY THEARITH
+
+Made with ❤️ and craftsmanship.
