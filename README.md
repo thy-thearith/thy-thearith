@@ -42,7 +42,7 @@ Here’s a deeper look into what I’ve done:
 | **Languages**  | JavaScript, TypeScript, Java, Python, PHP, SQL |
 | **Frontend**   | React, Vue.js, HTML5, CSS3 |
 | **Backend**    | Node.js, Express.js, NestJS, Larevel |
-| **Databases**  | PostgreSQL, MySQL, MongoDB |
+| **Databases**  | PostgreSQL, MySQL, MongoDB, Oracle |
 | **Data Modeling** | UML, ER Diagrams, Conceptual/Logical/Physical modeling |
 | **Dev Tools**  | Git, GitHub, Docker, Talend, Apache Hop, , VS Code |
 | **Testing & Performance** | Postman, Jest, k6, Load Testing, Selenium, Playwright, Grafana, Prometheuse, Node Exporter |
@@ -85,7 +85,7 @@ Built a flexible and modular web app structure for rapid feature development. Em
 
 I'm always open to networking, collaboration, or just having a good conversation about tech and innovation.
 
-- 🌐 [Portfolio Website](https://github.com/thy-thearith/thy-thearith/blob/master/README.md) <!-- You can add this -->
+- 🌐 [Portfolio Website](https://github.com/thy-thearith) <!-- You can add this -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- Update with your real link -->
 - 📮 Email: thy.thearith.work@gmail.com <!-- Replace with your contact -->
 
