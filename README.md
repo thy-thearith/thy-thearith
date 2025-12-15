@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm THY THEARITH
+# 👋 Hey there, I am THY Thearith (JACK)
 
 Welcome to my digital portfolio repository!
 
