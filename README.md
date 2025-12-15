@@ -85,9 +85,10 @@ Built a flexible and modular web app structure for rapid feature development. Em
 
 I'm always open to networking, collaboration, or just having a good conversation about tech and innovation.
 
-- 🌐 [Portfolio Website](https://github.com/thy-thearith) <!-- You can add this -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/thy-thearith-3679631bb) <!-- Update with your real link -->
-- 📮 Email: thy.thearith.work@gmail.com <!-- Replace with your contact -->
+- 🌐 [Github](https://github.com/thy-thearith)
+- 🌐 [Portfolio Website](https://thythearityportfolio.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thy-thearith-3679631bb)
+- 📮 Email: thy.thearith.work@gmail.com
 
 ---
 
