@@ -39,12 +39,14 @@ Here’s a deeper look into what I’ve done:
 
 | Category        | Tools & Technologies |
 |----------------|----------------------|
+| **AI**  | Generative AI, Prompt Engineer, Context Engineer, Agentic RAG,  Multi Agent  |
 | **Languages**  | JavaScript, TypeScript, Java, Python, PHP, SQL |
 | **Frontend**   | React, Vue.js, HTML5, CSS3 |
 | **Backend**    | Node.js, Express.js, NestJS, Larevel |
 | **Databases**  | PostgreSQL, MySQL, MongoDB, Oracle |
-| **Data Modeling** | UML, ER Diagrams, Conceptual/Logical/Physical modeling |
-| **Dev Tools**  | Git, GitHub, Docker, Talend, Apache Hop, , VS Code |
+| **Data Modeling** | UML, ER Diagrams, Conceptual, Logical, and Physical modeling |
+| **Dev Tools**  | Git, GitHub, Docker, Talend, Apache Hop, VS Code |
+| **Cloud Computing**  | AWS, GCP |
 | **Testing & Performance** | Postman, Jest, k6, Load Testing, Selenium, Playwright, Grafana, Prometheuse, Node Exporter |
 | **Others**     | REST APIs, GraphQL, SOAP APIs, CI/CD, Shell Scripting, Data Integration |
 
@@ -95,4 +97,3 @@ I'm always open to networking, collaboration, or just having a good conversation
 > _"Data is the foundation. Architecture is the vision. Execution is the art."_  
 > — THY THEARITH
 
-Made with ❤️ and craftsmanship.
